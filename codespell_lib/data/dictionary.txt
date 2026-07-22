@@ -25799,6 +25799,13 @@ everage->average
 everaged->averaged
 everbody->everybody
 everithing->everything
+evernt->event
+everntful->eventful
+evernts->events
+everntuate->eventuate
+everntual->eventual
+everntuality->eventuality
+everntually->eventually
 everone->everyone
 everthing->everything
 evertyhign->everything
@@ -61666,6 +61673,7 @@ unessecarily->unnecessarily
 unessecarrily->unnecessarily
 unessecarry->unnecessary
 unessecary->unnecessary
+uneverntful->uneventful
 unevaluted->unevaluated
 unexcected->unexpected
 unexcectedly->unexpectedly
